@@ -1,0 +1,17 @@
+cd to /home/sukhi/MyFiles/1_Development/DBeaver-Postgresql
+Fetching Latest Code (git pull sukhi main)
+From github.com:sukhikush/DBeaver-Postgresql
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Changes detected. Committing changes...
+Adding all chnages (git add .)
+Commiting Changes (git commit -a -m 'Auto push')
+[main 152f4e5] Auto push
+ 13 files changed, 213 insertions(+), 161 deletions(-)
+ rename .metadata/.plugins/org.eclipse.core.resources/.root/{8.tree => 10.tree} (82%)
+ create mode 100644 .metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml
+ create mode 100644 UAT-DB/Scripts/Script.sql
+Publishing changes (git push sukhi main)
+To github.com:sukhikush/DBeaver-Postgresql.git
+   ea9fb3e..152f4e5  main -> main
+Changes committed successfully.
